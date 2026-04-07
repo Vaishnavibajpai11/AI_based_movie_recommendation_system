@@ -24,3 +24,7 @@ The system uses a content-based filtering approach, analyzing features like movi
 -> Computes cosine similarity between movies based on these embeddings.
 -> Provides an interface where users can input a movie and get a list of top 5 similar movies instantly.
 
+**Dataset**
+movies.csv – Movie information including title, overview, genres, etc.
+credits.csv – Cast and crew information
+
